@@ -1,4 +1,4 @@
-# Asyncomplete-laravel.vim
+# asyncomplete-laravel.vim
 
 Provides extra completion for [Laravel](https://laravel.com) based php projects using
 [asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim).
